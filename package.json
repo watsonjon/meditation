@@ -1,7 +1,11 @@
 {
   "name": "meditation",
   "description": "simple meditation app",
+  "license": "MIT",
   "version": "0.1.0",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "scripts": {
+    "build": "cp *.* ./build"
+  }
 }
