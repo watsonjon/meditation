@@ -11,7 +11,7 @@ numberOfBreaths.addEventListener("change", () => {
   breathsText.innerText = breathsLeft;
 });
 
-// a growth pattern?
+// a growth pattern or shrunken?
 
 // grow/shrink circle
 const growCircle = () => {
